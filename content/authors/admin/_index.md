@@ -45,7 +45,7 @@ highlight_name: false
 title: Jeremy Hoffman
 email: ""
 ---
-Jeremy Hoffman is currently an MPP candidate and graduate research assistant at Penn State University's School of Public Policy. 
+Jeremy Hoffman is currently an MPP Candidate and Graduate Research Assistant at the Penn State School of Public Policy. 
 
 An English-qualified lawyer by background, he previously practiced as an IP attorney in the UK, advising clients operating within the pharmaceutical, food & beverage, media, and technology industries.
 
