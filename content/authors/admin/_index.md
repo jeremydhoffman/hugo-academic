@@ -39,7 +39,7 @@ education:
       institution: BPP Law School
       year: 2013
     - course: BA in History
-      institution: London School of Economics
+      institution: London School of Economics & Political Science
       year: 2012
 superuser: true
 highlight_name: false
