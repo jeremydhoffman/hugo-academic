@@ -1,8 +1,11 @@
 ---
 role: MPP Candidate | Graduate Research Assistant
 avatar_filename: avatar.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: "Jeremy is currently a MPP candidate and graduate research assistant at the
+  Penn State School of Public Policy. He is also an English-qualified attorney,
+  and previously practiced as an IP lawyer in the UK. His research interests
+  include pharmaceutical law, regulation & policy; healthcare politics; and
+  food-related public health measures. "
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -42,9 +45,12 @@ highlight_name: false
 title: Jeremy Hoffman
 email: ""
 ---
+Jeremy Hoffman is currently an MPP candidate and graduate research assistant at Penn State University's School of Public Policy. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+An English-qualified lawyer by background, he previously practiced as an IP attorney in the UK, advising clients operating within the pharmaceutical, food & beverage, media, and technology industries.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Over the course of his legal career, he has worked with a range of stakeholders, having practiced both as an in-house lawyer (serving as legal counsel at one of Europe's largest media and entertainment groups) and in private practice (as an associate at two top 20 UK-ranked international law firms).
+
+His current research interests include: pharmaceutical law, regulation & policy, with a particular focus on intellectual property rights and drug pricing; healthcare politics (in particular, pharmaceutical and food industry corporate political activity and the role of corporations, trade associations, and interest groups in the policymaking process); and food-related public health measures, for example SS taxes, nutrition warning labels, and food marketing restrictions.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
