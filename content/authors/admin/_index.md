@@ -29,16 +29,16 @@ organizations:
     url: https://www.psu.edu
 education:
   courses:
-    - course: Master of Public Policy (Health Policy Concentration)
+    - course: MPP (Health Policy)
       institution: Penn State University
       year: 2023
-    - course: Postgraduate Diploma in Legal Practice
+    - course: PgDip in Legal Practice
       institution: BPP Law School
-      year: 2000
-    - course: Graduate Diploma in Law
+      year: 2015
+    - course: GDip in Law
       institution: BPP Law School
       year: 2013
-    - course: Bachelor of Arts in History
+    - course: BA in History
       institution: London School of Economics
       year: 2012
 superuser: true
