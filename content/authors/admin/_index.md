@@ -1,6 +1,6 @@
 ---
 role: MPP Candidate | Graduate Research Assistant
-avatar_filename: j-hoffman-linkenin-photo-cropped-.png
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Penn State University
+    url: https://www.psu.edu
 education:
   courses:
     - course: PhD in Artificial Intelligence
