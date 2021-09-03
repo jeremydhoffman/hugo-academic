@@ -51,6 +51,6 @@ An English-qualified lawyer by background, he previously practiced as an IP atto
 
 Over the course of his legal career, he has worked with a range of stakeholders, having practiced both as an in-house lawyer (serving as legal counsel at one of Europe's largest media and entertainment groups) and in private practice (as an associate at two top 20 UK-ranked international law firms).
 
-His current research interests include: pharmaceutical law, regulation & policy, with a particular focus on intellectual property rights and drug pricing; healthcare politics (in particular, pharmaceutical and food industry corporate political activity and the role of corporations, trade associations, and interest groups in the policymaking process); and food-related public health measures, for example SS taxes, nutrition warning labels, and food marketing restrictions.
+His current research interests include: pharmaceutical law, regulation & policy, with a particular focus on intellectual property rights and drug pricing; healthcare politics (in particular, pharmaceutical and food industry corporate political activity and the role of corporations, trade associations, and interest groups in the policymaking process); and food-related public health measures, for example SSB taxes, nutrition warning labels, and food marketing restrictions.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
