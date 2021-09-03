@@ -29,15 +29,18 @@ organizations:
     url: https://www.psu.edu
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: Master of Public Policy (Health Policy Concentration)
+      institution: Penn State University
+      year: 2023
+    - course: Postgraduate Diploma in Legal Practice
+      institution: BPP Law School
+      year: 2000
+    - course: Graduate Diploma in Law
+      institution: BPP Law School
+      year: 2013
+    - course: Bachelor of Arts in History
+      institution: London School of Economics
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 superuser: true
 highlight_name: false
 title: Jeremy Hoffman
